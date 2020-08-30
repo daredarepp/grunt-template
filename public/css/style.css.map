@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../resources/scss/style.scss"],"names":[],"mappings":"AACA;IACI,YAAM;CACT;;AAED;IACI,6BAA4B;IAC5B,WAPM;IAQN,oCAA2B;YAA3B,4BAA2B;CAC9B","file":"style.css","sourcesContent":["$dare: red;\r\n:root {\r\n    --bgc: cyan;\r\n}\r\n\r\nbody {\r\n    background-color: var(--bgc);\r\n    color: $dare;\r\n    backdrop-filter: blur(10px);\r\n}"]}

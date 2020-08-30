@@ -1,0 +1,10 @@
+:root {
+    --bgc: cyan;
+}
+
+body {
+    background-color: var(--bgc);
+    color: red;
+    -webkit-backdrop-filter: blur(10px);
+            backdrop-filter: blur(10px);
+}

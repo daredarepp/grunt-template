@@ -1,0 +1,10 @@
+$dare: red;
+:root {
+    --bgc: cyan;
+}
+
+body {
+    background-color: var(--bgc);
+    color: $dare;
+    backdrop-filter: blur(10px);
+}
