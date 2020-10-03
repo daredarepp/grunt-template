@@ -1,4 +1,5 @@
-# grunt-template
+# Grunt template
+Basic grunt template for html/scss/js projects.
 
 ### Install:
 - **npm install**
